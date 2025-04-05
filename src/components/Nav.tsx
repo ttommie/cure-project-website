@@ -12,10 +12,10 @@ function Nav() {
 
       {/* PAGES */}
       <div className="text-white flex items-center space-x-14 font-display font-medium text-lg">
-        <a href="#">home</a>
-        <a href="#">commands</a>
-        <a href="#">legal</a>
-        <a href="#">status</a>
+        <a href="/">home</a>
+        <a href="/commands">commands</a>
+        <a href="/legal">legal</a>
+        <a href="/status">status</a>
       </div>
 
       {/* DISCORD BUTTON */}
